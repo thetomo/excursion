@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.headings {
+    color: white;
+    font-weight: normal;
+    
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {    
+    font-size: 42px;
+    font-weight: 300 !important;
+}
+
+p {
+    font-size: 21px;
+    color: grey;
+    
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#phone {
+    width: auto;
+    padding-top: 30px;
+}
+
+footer p{
+    text-align: right; 
+}
+#camp {
+    padding-bottom: 20px;
+}
